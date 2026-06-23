@@ -1,4 +1,5 @@
 **Spanning Tree Protocol (STP) Network Implementation**
+
 A Cisco Packet Tracer project demonstrating the implementation of Spanning Tree Protocol (STP) in a switched network. The topology consists of three interconnected switches forming a redundant Layer 2 loop, with STP automatically preventing broadcast storms by blocking redundant paths while maintaining network availability and fault tolerance.
 
 ****Features:****
